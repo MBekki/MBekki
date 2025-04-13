@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi! I'm Bekki
 
-<!--
-**MBekki/MBekki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I'm a Frontend Developer, I love working with React and Next.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My stacks:
+- ⚛️ React (Next.js)
+- 🌐 HTML / CSS / SCSS / Tailwind
+- 🧩 JavaScript / TypeScript
+- 🛠️ Git, GitHub
+- 🌍 I18n / Multi-language support
+
+---
+
+### 🌱 Currently learning:
+- Vue.js
+- Deeper UI/UX design principles
+
+---
+
+### 📫 How to contact me:
+- Telegram: https://t.me/mahammadov_bekzod
+- Email: mailto:bekzodmahammdov627@email.com
+- Portfolio: https://mbekki-portfolio.vercel.app/
+
+---
+
+### 🎯 My interests:
+- 👨‍💻 Writing code and trying out new technologies
+- 🌍 Programming languages Using i18n (international language support)
+- 🏞 Creating travel and nature-related apps
+
+---
+
+### 📌 Fun Fact:
+I love teaching coding and sharing experiences with other developers 😊
