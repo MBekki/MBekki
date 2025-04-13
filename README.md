@@ -21,7 +21,7 @@
 
 ### 📫 How to contact me:
 - Telegram: https://t.me/mahammadov_bekzod
-- Email: mailto:bekzodmahammdov627@email.com
+- Email: mailto:bekzodmahammadov627@gmail.com
 - Portfolio: https://mbekki-portfolio.vercel.app/
 
 ---
