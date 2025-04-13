@@ -2,14 +2,18 @@
 
 🧑‍💻 I'm a Frontend Developer, I love working with React and Next.js.
 
+![GitHub Followers](https://img.shields.io/github/followers/MBekki?style=social)
+![Repo Stars](https://img.shields.io/github/stars/MBekki/MBekki?style=social)
+![Top Language](https://img.shields.io/github/languages/top/MBekki/MBekki)
+![Visitor Badge](https://komarev.com/ghpvc/?username=MBekki&style=flat&color=blue)
+
 ---
 
-### 🚀 My stacks:
-- ⚛️ React (Next.js)
-- 🌐 HTML / CSS / SCSS / Tailwind
-- 🧩 JavaScript / TypeScript
-- 🛠️ Git, GitHub
-- 🌍 I18n / Multi-language support
+### 🛠 Tech Stack:
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
