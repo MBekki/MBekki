@@ -47,4 +47,4 @@ I love teaching coding and sharing experiences with other developers 😊
 ---
 
 ### ⏱ WakaTime Stats:
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MBekki&layout=compact)](https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MBekki&layout=compact)
