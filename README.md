@@ -47,6 +47,5 @@ I love teaching coding and sharing experiences with other developers 😊
 ---
 
 ### ⏱ WakaTime Stats:
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MBekki&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MBekki&layout=compact&theme=radical" alt="wakatime-stats" />
 </div>
