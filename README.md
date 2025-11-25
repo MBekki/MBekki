@@ -50,6 +50,7 @@ I love teaching coding and sharing experiences with other developers 😊
 <div>
   <img src="https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg" alt="wakatime-stats" />
 </div>
+[![wakatime](https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg)](https://wakatime.com/@b8643424-2a29-4ed8-aec9-3f5cc42392e2)
 
 ---
 
