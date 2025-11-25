@@ -6,6 +6,7 @@
 ![Repo Stars](https://img.shields.io/github/stars/MBekki/MBekki?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/MBekki/MBekki)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=MBekki&style=flat&color=blue)
+<a href="https://wakatime.com/@b8643424-2a29-4ed8-aec9-3f5cc42392e2" target="_blank"><img src="https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg" alt="Total time coded since Nov 21 2025" /></a>
 
 ---
 
@@ -43,14 +44,6 @@
 
 ### 📌 Fun Fact:
 I love teaching coding and sharing experiences with other developers 😊
-
----
-
-### ⏱ WakaTime Stats:
-<div>
-  <img src="https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg" alt="wakatime-stats" />
-</div>
-<a href="https://wakatime.com/@b8643424-2a29-4ed8-aec9-3f5cc42392e2"><img src="https://wakatime.com/badge/user/b8643424-2a29-4ed8-aec9-3f5cc42392e2.svg" alt="Total time coded since Nov 21 2025" /></a>
 
 ---
 
