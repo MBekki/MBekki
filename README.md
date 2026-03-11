@@ -22,9 +22,8 @@
 
 ---
 
-### 🌱 Currently learning:
-- Vue.js  
-- Deeper UI/UX design principles
+- 🌍 **Tour Shop App** – Travel booking frontend built with Next.js  
+- 🎮 **Kids Learning Games** – Drag & drop educational games for children
 
 ---
 
@@ -47,8 +46,6 @@ I love teaching coding and sharing experiences with other developers 😊
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MBekki&theme=algolia&no-bg=true&no-frame=true" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBekki&layout=compact&theme=tokyonight)
